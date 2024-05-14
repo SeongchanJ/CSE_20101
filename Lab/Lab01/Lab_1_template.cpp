@@ -11,7 +11,7 @@ int main() {
     
     int sum = num1 + num2;
     
-    std::cout << "두 숫자의 합: " << sum << std::endl;
+    std::cout << "Sum of num1 , num2: " << sum << std::endl;
     
     return 0;
 }
