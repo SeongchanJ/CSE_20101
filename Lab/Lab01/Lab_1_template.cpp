@@ -3,10 +3,10 @@
 int main() {
     int num1, num2;
     
-    std::cout << "첫 번째 숫자를 입력하세요: ";
+    std::cout << "Please enter the first number: ";
     std::cin >> num1;
     
-    std::cout << "두 번째 숫자를 입력하세요: ";
+    std::cout << "Please enter the second number: ";
     std::cin >> num2;
     
     int sum = num1 + num2;
